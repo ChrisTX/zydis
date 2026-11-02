@@ -1220,5 +1220,11 @@
         "stack_width": "ZYDIS_STACK_WIDTH_64",
         "payload": "62637D4807F70F",
         "description": "tilemovrow zmm30, tmm7, 0x0F"
+    },
+    {
+        "machine_mode": "ZYDIS_MACHINE_MODE_LONG_64",
+        "stack_width": "ZYDIS_STACK_WIDTH_64",
+        "payload": "C40219E65C9110",
+        "description": "cmpbexadd dword ptr ds:[r9+r10*4+0x10], r11d, r12d"
     }
 ]
